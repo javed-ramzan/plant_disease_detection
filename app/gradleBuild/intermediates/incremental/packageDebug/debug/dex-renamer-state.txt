@@ -1,0 +1,4 @@
+#Wed May 23 22:41:42 PKT 2018
+base.0=E\:\\Android\\Clients\\Current Projects\\Plant Care\\Plant\\app\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
